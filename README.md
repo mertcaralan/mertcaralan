@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ahmet Mert Çaralan!
+# 👋 Hi, I'm Mert Çaralan!
 🎓 Sophomore at Bilkent University specializing in Information Systems and Technologies (CTIS).<br/>
 👨🏻‍💻 Passionate about building tech solutions and clean, scalable software.<br/>
 💻 Currently diving deep into full-stack development, clean code practices, and React Native for mobile development.<br/>
