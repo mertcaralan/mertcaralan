@@ -25,7 +25,6 @@
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%2300477D.svg?style=for-the-badge&logo=postgresql&logoColor=white)<br/>
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)<br/>
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=mertcaralan&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
