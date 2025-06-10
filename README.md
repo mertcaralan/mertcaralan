@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hi, I'm Mert Çaralan!</h1>
+<h1>👋 Hi, I'm Mert Çaralan!</h1>
 
-<p align="center">
+<p>
 🎓 Junior at <strong>Bilkent University</strong>, majoring in <strong>Information Systems and Technologies (CTIS)</strong><br/>
 </p>
 
@@ -36,10 +36,10 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=mertcaralan&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-profile-trophy.vercel.app/?username=mertcaralan&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
 </p>
